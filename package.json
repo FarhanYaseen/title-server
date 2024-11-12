@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "async": "^3.2.6",
+    "q": "^2.0.3",
+    "rxjs": "^7.8.1"
+  }
 }
